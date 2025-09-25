@@ -1,0 +1,17 @@
+name: Tic Tac Toe
+
+on:
+  workflow_dispatch:  # permite rodar manualmente
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar Jogo da Velha
+        run: |
+          echo "=== Jogo da Velha ==="
+          echo "X | O | X"
+          echo "--+---+--"
+          echo "O | X | O"
+          echo "--+---+--"
+          echo "X |   | O"
