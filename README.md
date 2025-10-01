@@ -31,3 +31,4 @@ Aqui estão alguns projetos que fiz:
 |---|---|
 | site-misterfrio | Primeiro site feito em HTML, CSS e JavaScript |
 | Petalnow-Finanças | Gerenciamento de receitas, custos e metas |
+| Lista de Reposição de Produtos | Site para gerar listas de reposição de produtos. |
