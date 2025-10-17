@@ -13,7 +13,7 @@
 Me encontre por aqui
 
 Instagram: https://www.instagram.com/sanhora_/
-LinkedIn: 
+LinkedIn: linkedin.com/in/alessandra-da-hora-604965382
 Email: alessandrash23@gmail.com
 
 
